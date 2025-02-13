@@ -1,5 +1,5 @@
 # gitignore
 
 /myJavaExercises.iml
-/out/
-/.idea/
+out/
+.idea/
