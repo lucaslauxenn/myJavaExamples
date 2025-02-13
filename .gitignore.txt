@@ -1,0 +1,4 @@
+
+/myJavaExercises.iml
+out/
+.idea/
